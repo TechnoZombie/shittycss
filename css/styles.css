@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    text-align: center;
+    
+}
+
+h1 {
+    margin: 0;
+    color: #FFB30F;
+    font-family: Sacramento, Futura, Trebuchet MS, Arial, sans-serif;
+    
+}
+
+h2 {
+    margin: 0;
+    color: #FFB30F;
+    font-family: Futura, Trebuchet MS, Arial, sans-serif;
+}
+
+p {
+    color: #FFB30F
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-container {
+    background-color: #437F97;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+.middle-container {
+    background-color: #437F97;
+
+}
+
+.bottom-container {
+    background-color: #437F97;
+
+}
+
+
+.profilepic {
+    width: 200px;
+    height: 200px;
+    border-radius: 30%;
+}
