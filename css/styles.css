@@ -7,18 +7,25 @@ body {
 h1 {
     margin: 0;
     color: #FFB30F;
+    font-size: 50px;
     font-family: Sacramento, Futura, Trebuchet MS, Arial, sans-serif;
     
 }
 
 h2 {
     margin: 0;
-    color: #FFB30F;
+    color: #01295f;
     font-family: Futura, Trebuchet MS, Arial, sans-serif;
 }
 
+h3{
+    margin: 0;
+    color: #01295f;
+    font-family: Futura, Trebuchet MS, Arial, sans-serif;
+}
 p {
-    color: #FFB30F
+    color: #01295f;
+    font-family: Futura, Trebuchet MS, Arial, sans-serif;
 }
 
 .top-cloud {
@@ -52,7 +59,13 @@ p {
 
 
 .profilepic {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     border-radius: 30%;
+    }
+
+.sectionpic {
+        width: 75px;
+        height: 75px;
+    
 }
